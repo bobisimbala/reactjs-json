@@ -1,0 +1,88 @@
+{
+    "siswa": [
+        { 
+            "id": 1, 
+            "nama": "donal",
+            "alamat": "tanoyan",
+            "umur": 11,
+            "nohp": "08123"
+        },
+        {
+            "id": 2,
+            "nama": "ecin",
+            "alamat": "molinow",
+            "umur": 7,
+            "nohp": "08321"
+        },
+        {
+            "id": 3,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 4,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 5,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 6,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 7,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 8,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 9,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 10,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 11,
+            "nama": "rian",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        },
+        {
+            "id": 12,
+            "nama": "erbakan",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        }
+    ]
+}
