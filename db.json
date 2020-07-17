@@ -30,49 +30,49 @@
         },
         {
             "id": 5,
-            "nama": "rian",
+            "nama": "abdul",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 6,
-            "nama": "rian",
+            "nama": "gani",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 7,
-            "nama": "rian",
+            "nama": "sofyan",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 8,
-            "nama": "rian",
+            "nama": "rendi",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 9,
-            "nama": "rian",
+            "nama": "opan",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 10,
-            "nama": "rian",
+            "nama": "sandri",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
         },
         {
             "id": 11,
-            "nama": "rian",
+            "nama": "erik",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
@@ -80,6 +80,13 @@
         {
             "id": 12,
             "nama": "erbakan",
+            "alamat": "bakan",
+            "umur": 8,
+            "nohp": "08321"
+        }
+        {
+            "id": 13,
+            "nama": "randi",
             "alamat": "bakan",
             "umur": 8,
             "nohp": "08321"
