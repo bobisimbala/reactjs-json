@@ -97,6 +97,13 @@
             "alamat": "mongkonai",
             "umur": 8,
             "nohp": "08321"
+        },
+        {
+            "id": 15,
+            "nama": "dirga",
+            "alamat": "molinow",
+            "umur": 8,
+            "nohp": "08321"
         }
     ]
 }
