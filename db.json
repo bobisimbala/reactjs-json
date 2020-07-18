@@ -91,5 +91,21 @@
             "umur": 8,
             "nohp": "08321"
         }
+    ],
+    "lain": [
+        {
+            "idl" : 1,
+            "namal" : "contoh 1",
+            "alamatl" : "alamat 1",
+            "umur" : 11,
+            "nohp" : "0812345"
+        },
+        {
+            "idl" : 2,
+            "namal" : "contoh 2",
+            "alamatl" : "alamat 2",
+            "umur" : 11,
+            "nohp" : "0812345"
+        }
     ]
 }
