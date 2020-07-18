@@ -120,6 +120,20 @@
             "alamatl" : "alamat 2",
             "umur" : 11,
             "nohp" : "0812345"
+        },
+        {
+            "idl" : 3,
+            "namal" : "contoh 3",
+            "alamatl" : "alamat 3",
+            "umur" : 11,
+            "nohp" : "0812345"
+        },
+        {
+            "idl" : 4,
+            "namal" : "contoh 4",
+            "alamatl" : "alamat 4",
+            "umur" : 11,
+            "nohp" : "0812345"
         }
     ]
 }
